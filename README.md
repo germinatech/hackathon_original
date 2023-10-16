@@ -8,8 +8,10 @@ Você também pode ver um exemplo de uso de como usar a biblioteca FPDF para ger
 
 Para mais informações, acesse os links abaixo:
 
-Em Português: (https://www.hashtagtreinamentos.com/biblioteca-requests-no-python)
+Videos: 
+* Request: https://www.hashtagtreinamentos.com/biblioteca-requests-no-python
+* FPDF: https://www.youtube.com/watch?v=fJ3AylOe84M
 
 Documentação oficial:
-Request: (https://pypi.org/project/requests/)
-FPDF: (https://pypi.org/project/fpdf/)
+* Request: (https://pypi.org/project/requests/)
+* FPDF: (https://pypi.org/project/fpdf/)
