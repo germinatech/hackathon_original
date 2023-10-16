@@ -1,4 +1,4 @@
-# Tutorial request
+# Tutorial request e FDPF
 Dicas que podem ser úteis para os alunos do curso preparatório de Python da Germinare TECH.
 
 Aqui, você vai encontrar um tutorial de uma possível implementação da biblioteca request, abra o arquivo **resquest_ex.py**. 
